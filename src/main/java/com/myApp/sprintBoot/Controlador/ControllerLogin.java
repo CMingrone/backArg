@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins={"https://carlosmingrone-3309d.web.app/"})
+@CrossOrigin(origins={"https://carlosmingrone-3309d.firebaseapp.com/"})
 public class ControllerLogin {
     @Autowired
     LoginService loginService;

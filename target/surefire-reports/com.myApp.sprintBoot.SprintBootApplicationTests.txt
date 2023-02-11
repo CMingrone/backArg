@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.myApp.sprintBoot.SprintBootApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.338 s - in com.myApp.sprintBoot.SprintBootApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.459 s - in com.myApp.sprintBoot.SprintBootApplicationTests
